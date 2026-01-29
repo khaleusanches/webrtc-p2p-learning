@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886944584591",
+    "project_id": "webrtc-course-d",
+    "storage_bucket": "webrtc-course-d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886944584591:android:62a3840bc14931b6fe71fa",
+        "android_client_info": {
+          "package_name": "com.rycco.webrtcsampleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_ezAP9BLV8HLyMwiv1TlcqVBoP9OL30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
