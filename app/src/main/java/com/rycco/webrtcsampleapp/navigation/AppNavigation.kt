@@ -64,7 +64,9 @@ fun SetupNavigation(){
                 }
             }
             else {
-                VideoCallScreen(roomId)
+                VideoCallScreen(roomId, onNavigateBack = {
+                    navController.popBackStack()
+                })
             }
         }
     }
